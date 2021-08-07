@@ -3,17 +3,11 @@
 namespace GamingSnail7410\GrantPotatoes;
 
 use GamingSnail7410\GrantPotatoes\Item;
-
 use pocketmine\plugin\PluginBase;
-
 use pocketmine\Player;
-
 use pocketmine\Server;
-
 use pocketmine\event\Listener;
-
 use pocketmine\command\Command;
-
 use pocketmine\command\CommandSender;
 
 class Main extends PluginBase implements Listener{
